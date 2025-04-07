@@ -1,6 +1,5 @@
 # Crypto News Analyzer
 
-![Project Screenshot](/public/images/screenshot.png) <!-- Add a screenshot if available -->
 
 A web application that displays cryptocurrency market data and related news articles in one place, providing investors with valuable insights.
 
@@ -37,9 +36,3 @@ A web application that displays cryptocurrency market data and related news arti
   - [CoinGecko API](https://www.coingecko.com/en/api) (no key needed for free tier)
   - [NewsAPI](https://newsapi.org/)
 
-### Setup Instructions
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/crypto-news-analyzer.git
-   cd crypto-news-analyzer
